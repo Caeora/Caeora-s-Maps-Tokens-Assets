@@ -15,7 +15,7 @@
   "bugs": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/issues",
   "compatibleCoreVersion": "0.7.8",
   "description": "Caeora's Maps, Tokens, and Assets.",
-  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.0.3.zip",
+  "download": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets/archive/v0.0.4.zip",
   "includes": [
     "assets",
     "battle-maps",
@@ -23,7 +23,7 @@
     "module.json"
   ],
   "languages": [],
-  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.3/module.json",
+  "manifest": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.4/module.json",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.7",
   "name": "caeora-maps-tokens-assets",
@@ -36,9 +36,9 @@
       "module": "caeora-maps-tokens-assets"
     }
   ],
-  "readme": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.3/README.md",
+  "readme": "https://raw.githubusercontent.com/Caeora/Caeora-s-Maps-Tokens-Assets/v0.0.4/README.md",
   "scripts": [],
   "title": "Caeora's Maps, Tokens, and Assets",
   "url": "https://github.com/Caeora/Caeora-s-Maps-Tokens-Assets",
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
